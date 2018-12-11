@@ -1,0 +1,11 @@
+f2 stm 1
+f2 stm 2 add to feature 2
+f2 stm 3
+f2 stm 4
+f2 stm 5
+f2 stm 6
+f2 stm 7
+f2 stm 8
+f2 stm 9 
+f2 stm 10
+f2 stm 11
