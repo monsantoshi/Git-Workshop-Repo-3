@@ -1,6 +1,6 @@
 stm 1
-stm 2
-stm 3
+stm 2 
+stm 3 for feature 2
 stm 4
 stm 5
 stm 6
